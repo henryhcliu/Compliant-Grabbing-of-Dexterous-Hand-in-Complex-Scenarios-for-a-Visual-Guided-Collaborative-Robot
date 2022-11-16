@@ -1,0 +1,20 @@
+carton 纸盒
+mango
+peach
+pomegranate 石榴
+grape 
+strawberry
+selfiestick
+glassescase
+cuboid 长方体
+mangosteen 山竹
+lemon
+cone 圆锥体
+pyramid 棱锥
+cylinder 圆柱体
+mouse 
+dessert
+cherry 樱桃
+orange
+apple
+detergent

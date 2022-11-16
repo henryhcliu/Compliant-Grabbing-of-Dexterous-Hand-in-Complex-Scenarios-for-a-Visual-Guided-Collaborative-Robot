@@ -1,0 +1,24 @@
+﻿  InspireHand.cpp
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(38,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(40,62): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(68,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(69,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(71,62): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(115,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(116,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(118,62): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(145,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(146,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(148,62): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(175,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(176,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(195,35): warning C4309: “=”: 截断常量值
+E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\InspireHand.cpp(196,35): warning C4309: “=”: 截断常量值
+  main.cpp
+  SerialPort.cpp
+  stdafx.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  InspireHandClose_lhc.vcxproj -> E:\VS2019_ws\InspireHandClose\InspireHandClose_lhc\x64\Release\InspireHandClose_lhc.exe

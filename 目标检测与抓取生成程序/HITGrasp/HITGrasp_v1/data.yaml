@@ -1,0 +1,5 @@
+train: ./train/images
+val: ./valid/images
+
+nc: 20
+names: ['apple', 'carton', 'cherry', 'cone', 'cuboid', 'cylinder', 'dessert', 'detergent', 'glassescase', 'grape', 'lemon', 'mango', 'mangosteen', 'mouse', 'orange', 'peach', 'pomegranate', 'pyramid', 'selfiestick', 'strawberry']

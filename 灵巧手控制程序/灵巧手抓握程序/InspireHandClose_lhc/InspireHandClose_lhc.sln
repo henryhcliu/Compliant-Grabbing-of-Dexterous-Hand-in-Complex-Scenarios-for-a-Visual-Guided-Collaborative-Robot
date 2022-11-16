@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InspireHandClose_lhc", "InspireHandClose_lhc.vcxproj", "{AFDBA6B9-84B1-44B0-85F9-8B5B80EF6372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDBA6B9-84B1-44B0-85F9-8B5B80EF6372}.Debug|x64.ActiveCfg = Debug|x64
+		{AFDBA6B9-84B1-44B0-85F9-8B5B80EF6372}.Debug|x64.Build.0 = Debug|x64
+		{AFDBA6B9-84B1-44B0-85F9-8B5B80EF6372}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFDBA6B9-84B1-44B0-85F9-8B5B80EF6372}.Debug|x86.Build.0 = Debug|Win32
+		{AFDBA6B9-84B1-44B0-85F9-8B5B80EF6372}.Release|x64.ActiveCfg = Release|x64
+		{AFDBA6B9-84B1-44B0-85F9-8B5B80EF6372}.Release|x64.Build.0 = Release|x64
+		{AFDBA6B9-84B1-44B0-85F9-8B5B80EF6372}.Release|x86.ActiveCfg = Release|Win32
+		{AFDBA6B9-84B1-44B0-85F9-8B5B80EF6372}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDF11A6E-1079-4EF7-929B-FB757285DAC6}
+	EndGlobalSection
+EndGlobal

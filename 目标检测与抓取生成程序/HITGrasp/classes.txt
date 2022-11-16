@@ -1,0 +1,50 @@
+carton 纸盒
+mango
+peach
+pomegranate 石榴
+grape 
+strawberry
+selfiestick
+glassescase
+cuboid 长方体
+mangosteen 山竹
+lemon
+cone 圆锥体
+pyramid 棱锥
+cylinder 圆柱体
+mouse 
+dessert
+cherry 樱桃
+orange
+apple
+detergent
+
+deleted 35, 73
+
+数据集引入错误和混淆：（15，35，36，73）2+1+1
+1张的石榴误标注为山竹
+
+数据集制作的注意事项：要提高泛化性能，同类的物体需要采集多个不同个体的样本；
+要提高准确度，尽量避免特征极其相似的物体种类。
+
+纸盒
+芒果
+桃子
+石榴
+葡萄
+草莓
+山竹
+柠檬
+樱桃
+橘子
+苹果
+长方体
+圆锥体
+棱锥
+圆柱体
+鼠标
+充气甜点
+自拍杆
+眼镜盒
+眼镜清洁剂
+python .\train.py --img 640 --batch 24 --epochs 100 --data ..\datasets\HITGrasp_v2\data.yaml --weights .\last_HITGrasp_100epoch_bs32.pt

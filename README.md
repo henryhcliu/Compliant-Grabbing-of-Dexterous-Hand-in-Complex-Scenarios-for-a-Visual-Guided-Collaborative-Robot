@@ -4,9 +4,9 @@ This repository contains:
 2. the SGG-Net codes for visual object detection and grasp generation simultaneously based on YOLO v5 and GG-CNN.
 3. the KUKA LBR iiwa 14 R820 collaborative robot pick-and-place control code, which contains torque-based collision detection and impedance control schemes.
 
-# Remain to be updated before my return in July, 2022.
+Remain to be updated before my return in July, 2022.
 
-Folder contents and instructions for use:
+# Folder contents and instructions for use:
 
 1. The "Dexterous Hand Control Program" folder contains the adaptive force-threshold-based force threshold grabber for the robot's dexterous hand, including two parts, the open and grip programs, whose executable files are in their respective x64 folders with the suffix .exe.
 

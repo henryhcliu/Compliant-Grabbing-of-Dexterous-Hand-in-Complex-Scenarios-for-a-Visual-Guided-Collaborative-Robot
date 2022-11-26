@@ -6,7 +6,7 @@ This repository contains:
 
 Remain to be updated before my return in July, 2022.
 
-# Folder contents and instructions for use:
+## Folder contents and instructions for use:
 
 1. The "Dexterous Hand Control Program" folder contains the adaptive force-threshold-based force threshold grabber for the robot's dexterous hand, including two parts, the open and grip programs, whose executable files are in their respective x64 folders with the suffix .exe.
 
@@ -18,7 +18,7 @@ Remain to be updated before my return in July, 2022.
 
 *If in doubt: 15169553502,haichao-liu@outlook.com*
 
-# 文件夹内容与使用说明：
+## 文件夹内容与使用说明：
 
 1. “灵巧手控制程序”文件夹内含因时机器人灵巧手的基于力阈值的自适应抓取程序，包括张开与抓握程序两部分，其可执行文件在各自的x64文件夹中，后缀为.exe。
 

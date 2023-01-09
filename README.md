@@ -16,7 +16,7 @@ Remain to be updated before my return in July, 2022.
 
 4. The "Master's Thesis Final Draft and Attachments" folder contains the final thesis draft, final defense PPT, multiple single-target capture videos, compliance control experiment videos, multiple multi-objective capture videos, etc. *Due to copyright reasons, the final thesis and final defense PPT were deleted.*
 
-*If in doubt: 15169553502,haichao-liu@outlook.com*
+*If in doubt, please email to haichao-liu@outlook.com*
 
 ## 文件夹内容与使用说明：
 
@@ -28,4 +28,4 @@ Remain to be updated before my return in July, 2022.
 
 4. “硕士学位论文终稿与附件”文件夹内包含论文终稿、终期答辩PPT、多个单目标抓取视频、柔顺控制实验视频、多个多目标抓取视频等。由于版权原因，删去论文终稿、终期答辩PPT。
 
-*如有疑问：15169553502，haichao-liu@outlook.com*
+*如有疑问请邮件联系 haichao-liu@outlook.com*
